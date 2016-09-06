@@ -12,6 +12,10 @@
 
 # slash//slash
 
+# dash--dash
+
+# dash -- foo
+
 # `h` `e` **l** *l* o
 
 # $$$
